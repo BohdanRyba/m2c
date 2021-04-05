@@ -38,7 +38,7 @@ This configuration has been tested on macOS. Linux based systems still require t
 To install Mage2click toolset to your system, simply run command below.
 
 ```bash
-curl -sL raw.githubusercontent.com/mage2click/m2c/master/get | bash
+curl -sL raw.githubusercontent.com/BohdanRyba/m2c/master/get | bash
 ```
 
 Or shortened version of above.
